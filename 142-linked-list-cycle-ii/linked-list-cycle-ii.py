@@ -7,7 +7,7 @@
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-
+        # find  link is there or not
         slow = head
         fast = head
 
@@ -23,11 +23,10 @@ class Solution:
 
         start = head
         
-
+        # find node
         while start != slow:
 
             start = start.next
             slow = slow.next
-
 
         return start
