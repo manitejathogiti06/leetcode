@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -48,4 +49,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
