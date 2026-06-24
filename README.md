@@ -18,6 +18,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0155-min-stack](https://github.com/manitejathogiti06/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -55,6 +57,7 @@
 | [0020-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/manitejathogiti06/leetcode/tree/master/0071-simplify-path) |
+| [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -72,4 +75,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
