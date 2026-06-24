@@ -26,6 +26,7 @@
 | [0071-simplify-path](https://github.com/manitejathogiti06/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/manitejathogiti06/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manitejathogiti06/leetcode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
