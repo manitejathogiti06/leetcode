@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/manitejathogiti06/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -84,6 +85,7 @@
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +98,5 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
