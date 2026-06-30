@@ -82,6 +82,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/manitejathogiti06/leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/manitejathogiti06/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/manitejathogiti06/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -111,8 +112,10 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/manitejathogiti06/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/manitejathogiti06/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/manitejathogiti06/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
