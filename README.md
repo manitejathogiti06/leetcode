@@ -90,11 +90,13 @@
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manitejathogiti06/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/manitejathogiti06/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/manitejathogiti06/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/manitejathogiti06/leetcode/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
