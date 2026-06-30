@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Merge Sort
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manitejathogiti06/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/manitejathogiti06/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/manitejathogiti06/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/manitejathogiti06/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/manitejathogiti06/leetcode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/manitejathogiti06/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
