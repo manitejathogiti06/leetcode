@@ -47,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manitejathogiti06/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/manitejathogiti06/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manitejathogiti06/leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
