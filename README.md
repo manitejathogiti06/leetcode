@@ -54,6 +54,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manitejathogiti06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manitejathogiti06/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/manitejathogiti06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
@@ -128,4 +130,8 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/manitejathogiti06/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manitejathogiti06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
