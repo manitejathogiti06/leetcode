@@ -17,6 +17,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manitejathogiti06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manitejathogiti06/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/manitejathogiti06/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/manitejathogiti06/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
@@ -65,6 +66,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manitejathogiti06/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,6 +109,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manitejathogiti06/leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/manitejathogiti06/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manitejathogiti06/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/manitejathogiti06/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
