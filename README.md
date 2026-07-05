@@ -20,6 +20,7 @@
 | [0141-linked-list-cycle](https://github.com/manitejathogiti06/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manitejathogiti06/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -103,6 +104,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manitejathogiti06/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manitejathogiti06/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
@@ -148,6 +150,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manitejathogiti06/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manitejathogiti06/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
