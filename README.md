@@ -101,6 +101,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manitejathogiti06/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manitejathogiti06/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Trie
 |  |
 | ------- |
