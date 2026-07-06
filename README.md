@@ -114,6 +114,7 @@
 | [0283-move-zeroes](https://github.com/manitejathogiti06/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/manitejathogiti06/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manitejathogiti06/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/manitejathogiti06/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/manitejathogiti06/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/manitejathogiti06/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manitejathogiti06/leetcode/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/manitejathogiti06/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
