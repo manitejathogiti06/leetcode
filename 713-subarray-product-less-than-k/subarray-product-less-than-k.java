@@ -2,24 +2,35 @@ class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
 
 
-        int count = 0;
+        int left = 0;
 
-        for(int i = 0 ; i < nums.length ; i++){
+        int product = 1;
 
-            int product = 1;
+        int count = 0 ;
 
-            for(int j = i ; j < nums.length ; j++){
+        for(int right = 0 ; right < nums.length ; right++){
 
-                product = product * nums[j];
+            // expand the window 
 
-                if(product < k){
+            product = product * nums[right];
 
-                    count ++;
-                }  else{
+             // shrink the window 
 
-                    break;
-                }
+            while(product >= k){
+
+                product = product / nums[left];
+                left ++;
+
+        
+
             }
+
+            // count all subarrays    [10,5]  valid   its [10,5] and [5]  two sub arrays
+            // so left =0 and right =1 1-0+1  =2 two sub arays 
+
+            count = count + (right-left+1 ) ;
+
+
         }
 
         return count ;
