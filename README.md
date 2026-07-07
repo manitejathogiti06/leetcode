@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manitejathogiti06/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manitejathogiti06/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manitejathogiti06/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manitejathogiti06/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/manitejathogiti06/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/manitejathogiti06/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
@@ -181,6 +183,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/manitejathogiti06/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/manitejathogiti06/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/manitejathogiti06/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manitejathogiti06/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
