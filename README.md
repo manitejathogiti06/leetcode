@@ -10,6 +10,7 @@
 | [0148-sort-list](https://github.com/manitejathogiti06/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0234-palindrome-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/manitejathogiti06/leetcode/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/manitejathogiti06/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/manitejathogiti06/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
