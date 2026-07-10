@@ -46,6 +46,7 @@
 | [0739-daily-temperatures](https://github.com/manitejathogiti06/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/manitejathogiti06/leetcode/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manitejathogiti06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/manitejathogiti06/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manitejathogiti06/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -90,6 +91,7 @@
 | [0032-longest-valid-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/manitejathogiti06/leetcode/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/manitejathogiti06/leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manitejathogiti06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/manitejathogiti06/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/manitejathogiti06/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/manitejathogiti06/leetcode/tree/master/1544-make-the-string-great) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manitejathogiti06/leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manitejathogiti06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
