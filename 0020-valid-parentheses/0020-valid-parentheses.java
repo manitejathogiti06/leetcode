@@ -3,7 +3,7 @@ class Solution {
 
         Stack<Character> stack = new Stack<>();
 
-        for(char ch: s.toCharArray()){
+        for(char ch : s.toCharArray()){
 
             if(ch == '(' || ch == '{' || ch == '['){
 
@@ -11,20 +11,25 @@ class Solution {
             } else{
 
                 if(stack.isEmpty()){
-                    
-                    return false;
-                }
-
-                char top = stack.pop();
-
-                if(ch == ')' &&  top != '('|| ch== '}'&& top != '{' || ch == ']'&& top != '['){
 
                     return false;
                 }
 
-                   
+                char top = stack.pop();  // top element
+
+                // check top element 
+
+                if(ch == ')'&&top != '(' || ch == '}'&& top != '{' || ch == ']'&&top != '['){
+
+                    return false;
+                }
+
+                
+
             }
+            
         }
+
         return stack.isEmpty();
         
     }
